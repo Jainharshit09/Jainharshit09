@@ -1,5 +1,5 @@
 <!-- Profile Views Badge -->
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Jainharshit09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
@@ -10,7 +10,10 @@
 </p>
 <p align="center">
   I am a Computer Science student at <b>BML Munjal University</b>, passionate about building scalable applications, developing AI-driven solutions, and solving challenging problems in software engineering.  
-  I enjoy working across the stack, from backend systems with <b>Spring Boot</b> to modern frontends with <b>React/Next.js</b>, and I am currently exploring <b>AI Agents and LLM-powered applications</b>.
+  <br/><br/>
+  I enjoy working across the stack, from backend systems with <b>Spring Boot</b> to modern frontends with <b>React/Next.js</b>, and I am currently exploring <b>AI Agents and LLM-powered applications</b>.  
+  <br/><br/>
+  Always eager to <b>learn new technologies</b> and expand my skill set, I thrive on turning innovative ideas into impactful solutions.
 </p>
 
 ---
@@ -77,13 +80,13 @@
 ---
 
 ## 📌 Featured Projects  
-- 🔗 [**Job Portal**](https://github.com/Jainharshit09/Job-portal) | [Live Demo](https://job-portal-vavo.onrender.com/)  
+-  [**Job Portal**](https://github.com/Jainharshit09/Job-portal) | [Live Demo](https://job-portal-vavo.onrender.com/)  
   <br/>*Scalable recruitment portal with job postings, OTP optimization using Redis, and role-based access control.*  
 
-- 🔗 [**Cuisine AI**](https://github.com/Jainharshit09/Cuisine-AI) | [Live Demo](https://cuisine-ai-mu.vercel.app/)  
+-  [**Cuisine AI**](https://github.com/Jainharshit09/Cuisine-AI) | [Live Demo](https://cuisine-ai-mu.vercel.app/)  
   <br/>*AI-powered recipe generator with nutrition tracker, calendar meal planning, and Clerk + Prisma integration.*  
 
-- 🔗 [**Code Review Tool**](https://github.com/Jainharshit09/Code-review)  
+-  [**Code Review Tool**](https://github.com/Jainharshit09/Code-review)  
   <br/>*Automated code review system using CodeT5 & T5-small, achieving strong ROUGE metrics for code-to-comment generation.*  
 
 
