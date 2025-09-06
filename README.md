@@ -24,8 +24,6 @@
 
 ---
 
----
-
 ## 🏆 Achievements  
 - 🥇 **LeetCode**: Top 18% globally | Contest Rating **1600+**  
 - 📈 Solved **1200+ DSA problems** across platforms  
@@ -75,7 +73,6 @@
 - 🤖 **AI Agents** for autonomous workflows  
 - ⚡ **Data Structures & Algorithms (DSA)**  
 - 📊 **Backend Scaling** with Redis & Docker  
-- 
 
 ---
 
