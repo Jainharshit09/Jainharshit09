@@ -88,14 +88,10 @@
   <br/>*Automated code review system using CodeT5 & T5-small, achieving strong ROUGE metrics for code-to-comment generation.*  
 
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainharshit09&layout=compact&theme=radical&exclude_repo=Jupyter-Repo-Name" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainharshit09&layout=compact&theme=radical" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jainharshit09&theme=radical" />
+## 📊 GitHub Stats 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Jainharshit09&show_icons=true&theme=radical" height="160" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainharshit09&layout=compact&theme=radical&hide=jupyter" height="160" />
 </p>
 
 ---
