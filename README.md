@@ -15,14 +15,11 @@
 
 ---
 
-## 🔗 Connect with Me  
+## 📚 Coding Profiles  
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshit-jain-993194250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Jainharshit09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Jainharshit09/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.geeksforgeeks.org/user/jainharshit09"><img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
   <a href="https://codolio.com/profile/jainharshit09"><img src="https://img.shields.io/badge/Codolio-222222?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="mailto:jainharshit1947@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -100,6 +97,14 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jainharshit09&theme=radical" />
+</p>
+
+---
+
+## 📫 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshit-jain-993194250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jainharshit1947@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
