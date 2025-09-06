@@ -9,11 +9,9 @@
   💻 Software Developer &nbsp; | &nbsp; 🌐 Full-Stack Engineer &nbsp; | &nbsp; 🤖 AI Enthusiast  
 </p>
 <p align="center">
-  <p align="left">  I am a Computer Science student at <b>BML Munjal University</b>, passionate about building scalable applications, developing AI-driven solutions, and solving challenging problems in software engineering. </p>
-  <br/><br/>
-  <p align="left">  I enjoy working across the stack, from backend systems with <b>Spring Boot</b> to modern frontends with <b>React/Next.js</b>, and I am currently exploring <b>AI Agents and LLM-powered applications</b>.</p>  
-  <br/><br/>
- <p align="left">   Always eager to <b>learn new technologies</b> and expand my skill set, I thrive on turning innovative ideas into impactful solutions.</p>
+  <p align="left"> - I am a Computer Science student at <b>BML Munjal University</b>, passionate about building scalable applications, developing AI-driven solutions, and solving challenging problems in software engineering. </p>
+  <p align="left"> - I enjoy working across the stack, from backend systems with <b>Spring Boot</b> to modern frontends with <b>React/Next.js</b>, and I am currently exploring <b>AI Agents and LLM-powered applications</b>.</p>  
+ <p align="left">  - Always eager to <b>learn new technologies</b> and expand my skill set, I thrive on turning innovative ideas into impactful solutions.</p>
 </p>
 
 ---
