@@ -24,6 +24,15 @@
 
 ---
 
+---
+
+## 🏆 Achievements  
+- 🥇 **LeetCode**: Top 18% globally | Contest Rating **1600+**  
+- 📈 Solved **1200+ DSA problems** across platforms  
+- 🏅 **GeeksforGeeks**: Ranked **4th** in college in Problem Solving  
+
+---
+
 ## 🛠️ Tech Stack  
 
 ### Programming Languages  
@@ -64,9 +73,9 @@
 
 ## 📖 Currently Learning  
 - 🤖 **AI Agents** for autonomous workflows  
-- ⚡ **LangChain & LLM Applications**  
+- ⚡ **Data Structures & Algorithms (DSA)**  
 - 📊 **Backend Scaling** with Redis & Docker  
-- ☁️ **Cloud Deployments** on AWS  
+- 
 
 ---
 
@@ -80,14 +89,6 @@
 - 🔗 [**Code Review Tool**](https://github.com/Jainharshit09/Code-review)  
   <br/>*Automated code review system using CodeT5 & T5-small, achieving strong ROUGE metrics for code-to-comment generation.*  
 
----
-
-## 🏆 Achievements  
-- 🥇 **LeetCode**: Top 18% globally | Contest Rating **1600+**  
-- 📈 Solved **1200+ DSA problems** across platforms  
-- 🏅 **GeeksforGeeks**: Ranked **4th** in college in Problem Solving  
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
