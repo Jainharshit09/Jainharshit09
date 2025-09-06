@@ -17,7 +17,7 @@
 ---
 
 ## 📚 Coding Profiles  
-<p align="center">
+<p align="left">
   <a href="https://leetcode.com/u/Jainharshit09/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.geeksforgeeks.org/user/jainharshit09"><img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
   <a href="https://codolio.com/profile/jainharshit09"><img src="https://img.shields.io/badge/Codolio-222222?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
