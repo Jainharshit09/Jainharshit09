@@ -30,9 +30,10 @@
 ---
 
 ## 🏆 Achievements  
-- 🥇 **LeetCode**: Top 15% globally | Contest Rating **1650+**  
+- 🥇 **LeetCode**: Top 12% globally | Contest Rating **1700+**
+- 🥇 **CodeChef**: 2* Star |  Rating **1445+**  
 - 📈 Solved **1200+ DSA problems** across platforms  
-- 🏅 **GeeksforGeeks**: Ranked **4th** in Problem Solving at college 
+- 🏅 **GeeksforGeeks**: Ranked **5th** in Problem Solving at college 
 
 ---
 
